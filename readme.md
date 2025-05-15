@@ -1,5 +1,4 @@
 #This is my readme file
 
-- first 
-- second
-- third
+- Commit from pathal
+
