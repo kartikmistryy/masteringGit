@@ -1,5 +1,3 @@
 #This is my readme file
 
-- first 
-- second
-- third
+Hey, changes made by kartik!!!!
